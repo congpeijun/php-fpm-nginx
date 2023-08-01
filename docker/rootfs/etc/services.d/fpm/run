@@ -1,0 +1,5 @@
+#!/usr/bin/with-contenv sh
+echo "[$(basename "$(pwd)")] starting..."
+
+
+/usr/local/bin/swoole-cli -P --fpm-config /etc/fpm/www.conf -F

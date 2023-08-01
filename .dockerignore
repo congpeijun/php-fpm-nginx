@@ -1,0 +1,13 @@
+.git
+.github
+readme.md
+tests
+.env.example
+LICENSE
+phpunit.xml
+update.sh
+update_dev.sh
+.editorconfig
+.gitattributes
+.gitignore
+Dockerfile
